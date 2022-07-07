@@ -14,10 +14,6 @@ const Stack = createNativeStackNavigator();
 
 export default function App() {
  
-  const vacation = { key: 'vacation', color: 'red', selectedDotColor: 'blue' };
-  const massage = { key: 'massage', color: 'blue', selectedDotColor: 'blue' };
-  const workout = { key: 'workout', color: 'green' };
-
   LocaleConfig.locales['fr'] = {
     monthNames: [
       'January',
