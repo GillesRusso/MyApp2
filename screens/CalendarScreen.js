@@ -1,5 +1,5 @@
-import { Calendar, CalendarList, Agenda, LocaleConfig, calendarTheme } from 'react-native-calendars';
-import { StyleSheet, Text, View, Button, TextInput } from 'react-native';
+import {CalendarList} from 'react-native-calendars';
+import { StyleSheet, View} from 'react-native';
 
 
 
